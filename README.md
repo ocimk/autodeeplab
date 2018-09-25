@@ -1,6 +1,6 @@
 <!-- <a href="https://doi.org/10.5281/zenodo.1248776"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1248776.svg" alt="DOI"></a> -->
 
-# Vehicle background removal using DeepLab_V3 Image Semantic Segmentation Network
+# Vehicle background removal using DeepLab Image Semantic Segmentation Network
 
 For this demo, we used deeplab package available [here](https://github.com/sthalles/deeplab_v3). The description of the Semantic Segmentation is detailed here [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf).
 
@@ -16,10 +16,10 @@ For this demo, we used deeplab package available [here](https://github.com/sthal
 
 ### Images
 
-Place all images with jpg extension inside `./images`. If the folder **does not** exist, create it.
+Place all images with jpeg extension inside `images` folder. If the folder **does not** exist, create it. You need to modify the folder path in **CreateTfRecord.ipynb**.
 
 ### deeplab_v3
-Place deeplab package available [here](deeplab package available [here](https://github.com/sthalles/deeplab_v3)) inside `./deeplab_v3`. If the folder **does not** exist, create it.
+Place deeplab package available [here](https://github.com/sthalles/deeplab_v3) inside `./deeplab_v3`. If the folder **does not** exist, create it.
 
 ### ResNet Model
 - [checkpoints](http://download.tensorflow.org/models/resnet_v2_50_2017_04_14.tar.gz)
