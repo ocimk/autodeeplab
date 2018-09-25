@@ -18,7 +18,7 @@ For this demo, we used deeplab package available [here](https://github.com/sthal
 
 Place all images with jpeg extension inside `images` folder. If the folder **does not** exist, create it. You need to modify the folder path in **CreateTfRecord.ipynb**.
 
-### deeplab_v3
+### Deeplab
 Place deeplab package available [here](https://github.com/sthalles/deeplab_v3) inside `./deeplab_v3`. If the folder **does not** exist, create it.
 
 ### ResNet Model
@@ -41,4 +41,3 @@ Run the jupyter notebook **CreateTfRecord.ipynb** to convert all of the jpeg ima
 ### Test the model on your data
 
 Run the jupyter notebook **deeplab_background_removal.ipynb** to evaluate the pretrained model on the image dataset.
-# becurity
