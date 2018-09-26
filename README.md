@@ -46,38 +46,38 @@ Run the jupyter notebook **deeplab_background_removal.ipynb** to evaluate the pr
 
 - Example of processed images without any transfer learning
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/01.png)
+![Results1](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/01.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/02.png)
+![Results2](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/02.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/03.png)
+![Results3](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/03.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/04.png)
+![Results4](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/04.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/05.png)
+![Results5](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/05.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/06.png)
+![Results6](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/06.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/07.png)
+![Results7](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/07.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/08.png)
+![Results8](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/08.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/09.png)
+![Results9](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/09.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/010.png)
+![Results10](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/010.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/011.png)
+![Results11](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/011.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/012.png)
+![Results12](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/012.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/013.png)
+![Results13](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/013.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/014.png)
+![Results14](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/014.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/015.png)
+![Results15](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/015.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/016.png)
+![Results16](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/016.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/017.png)
+![Results17](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/017.png)
 
-![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/018.png)
+![Results18](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/018.png)
