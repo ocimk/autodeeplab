@@ -41,3 +41,23 @@ Run the jupyter notebook **CreateTfRecord.ipynb** to convert all of the jpeg ima
 ### Test the model on your data
 
 Run the jupyter notebook **deeplab_background_removal.ipynb** to evaluate the pretrained model on the image dataset.
+
+## Results
+
+- Example of processed images without any transfer learning
+
+![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/0.png)
+
+![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/2.png)
+
+![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/4.png)
+
+![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/6.png)
+
+![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/10.png)
+
+![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/20.png)
+
+![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/21.png)
+
+![Results](https://github.com/ocimk/becurity_deeplab/tree/master/processed_images/30.png)
