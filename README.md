@@ -34,9 +34,9 @@ Place the checkpoints folder inside `./deeplab_v3/tboard_logs`. If the folder **
 
 ## Evaluation
 
-### Create TFRecords
+### Create TfRecords
 
-Run the jupyter notebook **CreateTfRecord.ipynb** to convert all of the jpeg images to one file with TFRecords extension that is a standard format for tensorflow.
+Run the jupyter notebook **CreateTfRecord.ipynb** to convert all of the jpeg images to one file with TfRecords extension that is a standard format for tensorflow.
 
 ### Test the model on your data
 
